@@ -62,3 +62,9 @@ form .username{
   heith: 2px;
   background: #6C3483;
 }
+
+.username input: focus ~ label,
+.username input: focus ~ label{
+  top: -5px;
+  color: #6C3483;
+}
