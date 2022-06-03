@@ -75,3 +75,25 @@ form .username{
 .username input: span::before{
   top: 100%;
 }
+
+.recordar{
+  margin: -5px 0 20px 5px;
+  color: blue;
+  cursor: pointer;
+}
+
+.recordar:hover{
+  text-decoration: underline;
+}
+
+input[type = "submit"]{
+  width: 100%;
+  heith: 50px;
+  border: 1px solid;
+  background: #6C3483;
+  border-radius: 25px;
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
