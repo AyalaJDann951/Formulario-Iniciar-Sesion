@@ -42,3 +42,13 @@ form .username{
   background: none;
   outline: none;
 }
+
+.usernamer label{
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  color: #adadad;
+  transform: translateY(50%);
+  font-size: 16px;
+  pointer-events: none;
+}
