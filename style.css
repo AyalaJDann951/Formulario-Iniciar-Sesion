@@ -24,7 +24,7 @@ body{
 
 .formulario form{
   padding: 0 40px;
-  box sizing: border-box;
+  box-sizing: border-box;
 }
 
 form .username{
