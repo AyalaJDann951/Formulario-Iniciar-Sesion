@@ -52,3 +52,13 @@ form .username{
   font-size: 16px;
   pointer-events: none;
 }
+
+.username span::before{
+  content: '';
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 100%;
+  heith: 2px;
+  background: #6C3483;
+}
