@@ -97,3 +97,8 @@ input[type = "submit"]{
   cursor: pointer;
   outline: none;
 }
+
+input[type = "submit"]:hover{
+  border-color: purple;
+  transition: .5s;
+}
