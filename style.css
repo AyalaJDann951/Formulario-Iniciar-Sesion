@@ -62,10 +62,16 @@ form .username{
   width: 100%;
   heith: 2px;
   background: #6C3483;
+  transition: .5s;
 }
 
 .username input: focus ~ label,
 .username input: focus ~ label{
   top: -5px;
   color: #6C3483;
+}
+
+.username input: span::before,
+.username input: span::before{
+  top: 100%;
 }
