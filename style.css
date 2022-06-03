@@ -32,3 +32,13 @@ form .username{
   border botton: 2px solid #adadad;
   margin: 30px 0;
 }
+
+.username inpu{
+  width: 100%;
+  padding: 0 5px;
+  heigth: 40;
+  font-size: 16px;
+  border: none;
+  background: none;
+  outline: none;
+}
