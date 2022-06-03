@@ -49,6 +49,16 @@ form .contrasena{
   outline: none;
 }
 
+.contrasena input{
+  width: 100%;
+  padding: 0 5px;
+  heigth: 40;
+  font-size: 16px;
+  border: none;
+  background: none;
+  outline: none;
+}
+
 .username label{
   position: absolute;
   top: 50%;
