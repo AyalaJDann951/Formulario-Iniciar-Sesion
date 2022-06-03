@@ -109,3 +109,12 @@ input[type = "submit"]:hover{
   font-size: 16px;
   color: black;
 }
+
+.registrarse a{
+  color: blue;
+  text-decoration: none;
+}
+
+.registrarse a:hover{
+  text-decoration: underline;
+}
