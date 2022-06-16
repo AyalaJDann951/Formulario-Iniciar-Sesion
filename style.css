@@ -141,36 +141,36 @@ form .contrasena1{
   transition: .5s;
 }
 
-.username input: focus ~ label,
-.username input: focus ~ label{
+.username input:focus ~ label,
+.username input:focus ~ label{
   top: -5px;
   color: #6C3483;
 }
 
-.contrasena input: focus ~ label,
-.contrasena input: focus ~ label{
+.contrasena input:focus ~ label,
+.contrasena input:focus ~ label{
   top: -5px;
   color: #6C3483;
 }
 
-.contrasena1 input: focus ~ label,
-.contrasena1 input: focus ~ label{
+.contrasena1 input:focus ~ label,
+.contrasena1 input:focus ~ label{
   top: -5px;
   color: #6C3483;
 }
 
-.username input: span::before,
-.username input: span::before{
+.username input:span::before,
+.username input:span::before{
   top: 100%;
 }
 
-.contrasena input: span::before,
-.contrasena input: span::before{
+.contrasena input:span::before,
+.contrasena input:span::before{
   top: 100%;
 }
 
-.contrasena1 input: span::before,
-.contrasena1 input: span::before{
+.contrasena1 input:span::before,
+.contrasena1 input:span::before{
   top: 100%;
 }
 
